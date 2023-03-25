@@ -5,5 +5,4 @@
  * @author sheik samsudeen
  *
  */
-module c2tc.vvit {
-}
+package com.tns.b47;
