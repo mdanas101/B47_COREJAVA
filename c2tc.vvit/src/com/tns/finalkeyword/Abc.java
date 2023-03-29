@@ -1,4 +1,6 @@
-package com.tns.staticmethod;
+package com.tns.finalkeyword;
+
+import com.tns.staticmethod.Xyz;
 
 class Xyz
 {
@@ -10,6 +12,7 @@ class Xyz
 
 public class Abc extends Xyz{
 	final int a=10;
+	Abc(){
 	
 final void display() {
 }
